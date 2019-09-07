@@ -35,7 +35,7 @@ moveLeft = False
 moveRight = False
 
 try:
-    print 'Press [ESC] to quit'
+    print('Press [ESC] to quit')
     # Loop indefinitely
     leftState = GPIO.LOW
     rightState = GPIO.LOW
